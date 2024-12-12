@@ -36,4 +36,4 @@ You only need a web browser to view and interact with the project.
 
 1. Clone the repository:
    ```sh
-  https://vineethkumar-hotstar-clone.netlify.app
+ git clone
